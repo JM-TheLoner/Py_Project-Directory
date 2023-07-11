@@ -1,1 +1,3 @@
-root.wm_attributes('-transparentcolor','black')  something interenting will happen
+root.wm_attributes('-transparentcolor','black')  
+
+Put on line 13 if you want to see something interenting
