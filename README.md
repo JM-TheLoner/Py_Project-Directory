@@ -1,4 +1,4 @@
 # Py_Project-Directory
- Pseudo- bank-app
+ Pseudo bank-app
 
-add updates
+ all files to be in the same folder
